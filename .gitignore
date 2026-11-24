@@ -1,0 +1,8 @@
+# u-motasimfuad-agent-r1 — local-only ignores for this one-line confession entry
+__pycache__/
+*.py[cod]
+/output/
+*.tar.gz
+*.log
+.DS_Store
+.vscode/
